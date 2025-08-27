@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tour Group & Expense (Flutter, No Packages)
 
 A clean Material 3 Flutter app to manage a tour group and track expenses in four sections:
@@ -20,3 +21,7 @@ flutter build apk
 ```
 
 > Data is in-memory only for this MVP (resets on restart). Add persistence later with shared_preferences if you want.
+=======
+# Expense-calculator
+just random project
+>>>>>>> ae96e0a3f7b87330ec53729776596ccccd33ff71
